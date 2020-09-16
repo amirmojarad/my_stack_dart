@@ -1,5 +1,5 @@
 # Stack in Dart
-**bold Methods**
+**Methods**
 - push
 - peek
 - pop
